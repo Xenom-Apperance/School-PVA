@@ -1,2 +1,2 @@
 # School
-School projects and learning
+Smaller school projects and learning material
