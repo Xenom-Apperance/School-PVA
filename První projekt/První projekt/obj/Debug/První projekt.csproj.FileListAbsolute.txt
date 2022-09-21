@@ -1,7 +1,0 @@
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\obj\Debug\První projekt.csprojAssemblyReference.cache
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\obj\Debug\První projekt.csproj.CoreCompileInputs.cache
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\bin\Debug\První projekt.exe.config
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\bin\Debug\První projekt.exe
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\bin\Debug\První projekt.pdb
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\obj\Debug\První projekt.exe
-C:\Users\bruthans.kr.2022\Documents\Code\První projekt\První projekt\obj\Debug\První projekt.pdb
