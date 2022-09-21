@@ -12,6 +12,7 @@ namespace Test1
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
+            Console.WriteLine("Hello github!")
         }
     }
 }
